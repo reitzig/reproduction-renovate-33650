@@ -1,17 +1,25 @@
-# minimal-reproduction-template
+# #33640
 
-First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
+ℹ️ Created using
 
-Then replace the current `h1` with the Renovate Issue/Discussion number.
+```bash
+ ❯ uvx copier --version
+copier 9.4.1
+```
 
 ## Current behavior
 
-Explain the current behavior here.
+```
+log
+```
+
+➡️ 
 
 ## Expected behavior
 
-Explain the expected behavior here.
+One or two PRs that together correctly update both instances to template v1.1.0.
+➡️ 
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+➡️ [renovatebot/renovate#33640](https://github.com/renovatebot/renovate/discussions/33640)
